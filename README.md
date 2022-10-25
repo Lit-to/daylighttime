@@ -13,7 +13,7 @@
 ``gamerule doDaylightcycle``は``false``となります。
 また、現在時刻は``scoreboard objectives setdisplay sidebar clock_board``で確認することが出来ます。
 
-
+協力:[なお](https://twitter.com/nao2002_)
 
 
 
