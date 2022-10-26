@@ -16,12 +16,13 @@
 -   ``function dlcy:now``:現在時刻に設定されます。
 
 ### storageの設定
+``dlcy:``
 ```json
-dlcy:
-{Now:[
-    hour(int),
-    minute(int),
-    second(int)
+{
+    Now:[
+        hour(int),
+        minute(int),
+        second(int)
 ]}
 ```
 
