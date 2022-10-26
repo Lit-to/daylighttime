@@ -6,5 +6,5 @@ scoreboard objectives remove clock_time
 scoreboard objectives add clock_time dummy
 scoreboard objectives remove clock_board
 scoreboard objectives add clock_board dummy {"text":"現在時刻"}
-
+function dlcy:now
 
