@@ -2,6 +2,7 @@
 scoreboard players add now clock_time 1
 execute if score now clock_time matches 72 run time add 1
 execute if score now clock_time matches 72 run scoreboard players set now clock_time 0
+
 scoreboard players add tick clock_time 1
 execute if score tick clock_time matches 20 run function dlcy:clear/tick
 execute if score second clock_time matches 60 run function dlcy:clear/second
