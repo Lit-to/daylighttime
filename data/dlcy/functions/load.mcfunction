@@ -1,7 +1,7 @@
 #> dlcy:load
 #完成時間 2022-10-26 07:16:04
 gamerule doDaylightCycle false
-time set 0
+time set 18000
 function realtime:get 
 scoreboard objectives remove clock_time
 scoreboard objectives add clock_time dummy
