@@ -19,11 +19,12 @@
 ``dlcy:``
 ```json
 {
-    Now:[
+    "Now":[
         hour(int),
         minute(int),
         second(int)
-]}
+        ]
+    }
 ```
 
 
